@@ -27,8 +27,4 @@ IExpress (For compressing Sempbul Mu3r Mekur)
 
 # Reported issues that some users may experience
 
-Sempbul Mu3r Mekur apparently constantly opens the Windows Script Host over and over again on certain systems.. This may be caused by spaces in your userprofile name. My friend Adam also reports to be using his PC as an FTP server. Which may also cause issues. Another cause may be a corrupted install of Windows (namely choice.exe being corrupted or missing)
-
-# A screw up in v1.0.1
-
-Damn it.. I found a new bug after I already updated the damn repository... FFFFUCK!!!!!!
+Sempbul Mu3r Mekur apparently constantly opens the Windows Script Host over and over again on certain systems.. This may be caused by a corrupted install of Windows (namely choice.exe being corrupted or missing)
