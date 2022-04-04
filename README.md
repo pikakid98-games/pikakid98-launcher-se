@@ -23,3 +23,7 @@ Sempbul Mu3r Mekur (aka Simple M3U Maker: Special Edition)
 [Resource Hacker](http://angusj.com/resourcehacker/#download) (For changing Sempbul Mu3r Mekur's icon)
 \
 IExpress (For compressing Sempbul Mu3r Mekur)
+
+# Other credits
+
+Rev 1 of Sempbul Mu3r Mekur (pre-modification) was provided by my awesome friend [Adam (R3L14NT94)](https://github.com/R3L14NT94)
