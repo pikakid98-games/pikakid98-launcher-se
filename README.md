@@ -23,8 +23,3 @@ Sempbul Mu3r Mekur (aka Simple M3U Maker: Special Edition)
 [Resource Hacker](http://angusj.com/resourcehacker/#download) (For changing Sempbul Mu3r Mekur's icon)
 \
 IExpress (For compressing Sempbul Mu3r Mekur)
-
-
-# Reported issues that some users may experience
-
-Sempbul Mu3r Mekur apparently constantly opens the Windows Script Host over and over again on certain systems.. This may be caused by a corrupted install of Windows (namely choice.exe being corrupted or missing)
