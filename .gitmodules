@@ -1,12 +1,12 @@
-[submodule "Cab Ov Did"]
-	path = Cab Ov Did
+[submodule "cab-ov-did"]
+	path = cab-ov-did
 	url = https://github.com/Git-Pikakid98/cab-ov-did.git
-[submodule "Cet Werfur"]
-	path = Cet Werfur
+[submodule "cet-werfur"]
+	path = cet-werfur
 	url = https://github.com/Git-Pikakid98/cet-werfur.git
-[submodule "Sempbul M3ur Mekur"]
-	path = Sempbul M3ur Mekur
+[submodule "sempbul-mu3r-mekur"]
+	path = sempbul-mu3r-mekur
 	url = https://github.com/Git-Pikakid98/sempbul-mu3r-mekur.git
-[submodule "Merk Minshun"]
-	path = Merk Minshun
+[submodule "merk-minshun"]
+	path = merk-minshun
 	url = https://github.com/Git-Pikakid98/merk-minshun.git
