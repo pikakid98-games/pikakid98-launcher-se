@@ -3,27 +3,25 @@ A very special version of my launcher with some very special versions of existin
 
 # You will experience the joys of
 
-Merk Minshun (aka Markiplier's Mansion: Special Edition)
+[Merk Minshun](https://github.com/Git-Pikakid98/merk-minshun)
 \
-Cet Werfur (aka Cat Warfare: Special Edition)
+(aka Markiplier's Mansion: Special Edition)
+
+[Cet Werfur](https://github.com/Git-Pikakid98/cet-werfur)
 \
-Cab Ov Did (aka Cave Of The Dead: Special Edition)
+(aka Cat Warfare: Special Edition)
+
+[Cab Ov Did](https://github.com/Git-Pikakid98/cab-ov-did)
 \
-Sempbul Mu3r Mekur (aka Simple M3U Maker: Special Edition)
+(aka Cave Of The Dead: Special Edition)
+
+[Sempbul Mu3r Mekur](https://github.com/Git-Pikakid98/sempbul-m3ur-mekur)
+\
+(aka Simple M3U Maker: Special Edition)
 
 
 # Building Requirements
 
-[Game Maker 8.1](https://archive.org/details/GameMaker81) (For the launcher, Cab Ov Did and Cet Werfur)
+[Game Maker 8.1](https://archive.org/details/GameMaker81)
 \
-[gm8x_fix (v0.5.8)](https://github.com/skyfloogle/gm8x_fix/releases/tag/v0.5.8) (For the launcher)
-\
-[RPG Maker VX Ace](https://store.steampowered.com/app/220700) (For Merk Minshun)
-\
-[Resource Hacker](http://angusj.com/resourcehacker/#download) (For changing Sempbul Mu3r Mekur's icon)
-\
-IExpress (For compressing Sempbul Mu3r Mekur)
-
-# Other credits
-
-Rev 1 of Sempbul Mu3r Mekur (pre-modification) was provided by my awesome friend [Adam (R3L14NT94)](https://github.com/R3L14NT94)
+[gm8x_fix (v0.5.8)](https://github.com/skyfloogle/gm8x_fix/releases/tag/v0.5.8)
