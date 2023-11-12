@@ -5,9 +5,5 @@ on:
       - '*'
 
 jobs:
-  build_deploy:
-    name: Build and Deploy
-    runs-on: ubuntu-latest
-    steps:
-      - name: Submodules
-        run: git submodule update --init --recursive
+  - name: Submodules
+    run: git submodule update --init --recursive
