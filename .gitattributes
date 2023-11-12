@@ -1,2 +1,1 @@
-*.gm81 linguist-language=gml linguist-detectable=true
-*.bat linguist-language=Batchfile linguist-detectable=true
+*.gm81 linguist-language=Game-Maker-Language
