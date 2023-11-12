@@ -1,9 +1,0 @@
-name: deploy
-on:
-  push:
-    tags:
-      - '*'
-
-jobs:
-  - name: Submodules
-    run: git submodule update --init --recursive
