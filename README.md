@@ -19,9 +19,21 @@ A very special version of my launcher with some very special versions of existin
 \
 (aka Simple M3U Maker: Special Edition)
 
-
 # Building Requirements
 
-[Game Maker 8.1](https://archive.org/details/GameMaker81)
+[Game Maker 8.2](https://discord.gg/CMZKMS4NHM)
 \
-[gm8x_fix (v0.5.8)](https://github.com/skyfloogle/gm8x_fix/releases/tag/v0.5.8)
+[AutoHotkey v2](https://github.com/AutoHotkey/AutoHotkey/releases)
+\
+[Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe/releases)
+\
+[Upx](https://github.com/upx/upx/releases)
+
+<details>
+<summary>If compiling with Compile-in-ator</summary>
+
+###### Use the following environment variables or you WILL encounter errors
+`%GM82%` GameMaker 8.2
+`%AHK%` AutoHotkey
+
+</details>
