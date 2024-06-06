@@ -3,19 +3,19 @@ A very special version of my launcher with some very special versions of existin
 
 # You will experience the joys of
 
-[Merk Minshun](https://github.com/Git-Pikakid98/merk-minshun)
+[Merk Minshun](https://github.com/pikakid98-games/merk-minshun)
 \
 (aka Markiplier's Mansion: Special Edition)
 
-[Cet Werfur](https://github.com/Git-Pikakid98/cet-werfur)
+[Cet Werfur](https://github.com/pikakid98-games/cet-werfur)
 \
 (aka Cat Warfare: Special Edition)
 
-[Cab Ov Did](https://github.com/Git-Pikakid98/cab-ov-did)
+[Cab Ov Did](https://github.com/pikakid98-games/cab-ov-did)
 \
 (aka Cave Of The Dead: Special Edition)
 
-[Sempbul Mu3r Mekur](https://github.com/Git-Pikakid98/sempbul-m3ur-mekur)
+[Sempbul Mu3r Mekur](https://github.com/pikakid98-games/sempbul-m3ur-mekur)
 \
 (aka Simple M3U Maker: Special Edition)
 
