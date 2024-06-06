@@ -15,7 +15,7 @@ A very special version of my launcher with some very special versions of existin
 \
 (aka Cave Of The Dead: Special Edition)
 
-[Sempbul Mu3r Mekur](https://github.com/pikakid98-games/sempbul-m3ur-mekur)
+[Sempbul Mu3r Mekur](https://github.com/pikakid98/sempbul-m3ur-mekur)
 \
 (aka Simple M3U Maker: Special Edition)
 
